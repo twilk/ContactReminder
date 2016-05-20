@@ -1,23 +1,23 @@
 
-UNIWERSYTET GDAŃSKI
+<p align="center">UNIWERSYTET GDAŃSKI</p>
 
-WYDZIAŁ MATEMATYKI, FIZYKI I INFORMATYKI
+<p align="center">WYDZIAŁ MATEMATYKI, FIZYKI I INFORMATYKI</p>
 
-# **Jessica Tkacz**
+**<p align="center">Jessica Tkacz</p>**
 
-**Tomasz Wilk**
+**<p align="center">Tomasz Wilk</p>**
 
-*Kierunek*: Informatyka
+<p align="center"><b>Kierunek</b>: Informatyka</p>
 
-*Specjalność*: Aplikacje internetowe i bazy danych
+<p align="center"><b>Specjalność</b>: Aplikacje internetowe i bazy danych</p>
 
-Aplikacja dla systemu Android usprawniająca kontakty z bliskimi.
+<p align="center">Aplikacja dla systemu Android usprawniająca kontakty z bliskimi.</p>
 
-Praca licencjacka napisana
+<p align="center">Praca licencjacka napisana</p>
 
-pod kierunkiem dr Włodzimierza Bzyla
+<p align="center">pod kierunkiem dr Włodzimierza Bzyla</p>
 
-Gdańsk 2016
+<p align="center">Gdańsk 2016</p>
 
 Spis treści
 
@@ -90,3 +90,5 @@ SŁOWA KLUCZOWE:
 „babcia” „kontakt” „organizacja” „oszczędność czasu” „zadzwonić” „telefon”
 
 „systematyczność” „regularny” „połączenie”
+
+
