@@ -3,7 +3,7 @@ UNIWERSYTET GDAŃSKI
 
 WYDZIAŁ MATEMATYKI, FIZYKI I INFORMATYKI
 
-**Jessica Tkacz**
+# **Jessica Tkacz**
 
 **Tomasz Wilk**
 
