@@ -65,11 +65,7 @@ Aplikacja ma na celu wspomóc osoby, które z różnych powodów nie pamiętają
 
 W tym rozdziale pragniemy przedstawić wybrane diagramy związane ze sposobem działania naszej aplikacji, jej strukturą oraz samym jej zaprojektowaniem.
 
-…...
-
-Tu diagram use case może
-
-…..
+<img src="http://yuml.me/diagram/usecase/[Uzytkownik]-(Uruchomienie),[Uzytkownik]-(Scrollbar),[Uzytkownik]-(Checkbox),[Uzytkownik]-(Przycisk)" >
 
 2.2. Wymagania funkcjonalne i niefunkcjonalne
 
